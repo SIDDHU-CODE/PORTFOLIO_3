@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(0, 0, 0);
+    
+}   
+
+* {
+    border: solid;
+} 
+
+.header {
+      background-color: #dddddd;
+      display: flex;
+      justify-content: space-between;
+}
+
+.grid {
+      
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: wrap;
+}
+
+.footer {
+      background-color: #000000;
+      display: flex;
+      justify-content: flex-end;
+}
+
+p,h2 {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+body {
+     background-color: #000000;
+}
